@@ -1,7 +1,4 @@
 <html>
-	<head>
-		<title>Principal</title>
-	</head>
 <FRAMEST COLS=30%,*>
 	<FRAME SRC="Titulo.html"NORESIZE>
 			<FRAMESET COLS=20%,*>
